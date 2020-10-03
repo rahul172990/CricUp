@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814715201951",
+    "firebase_url": "https://livesports-a4ce5.firebaseio.com",
+    "project_id": "livesports-a4ce5",
+    "storage_bucket": "livesports-a4ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814715201951:android:6ebaa2475f53bcde0e35aa",
+        "android_client_info": {
+          "package_name": "com.livesports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814715201951-arn40fpenbal2gss8ifcjk5560jmtvpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livesports",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "814715201951-q2v92trpoeirijv5fbm3c7k87bmfs8c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QPXmKaY3_2xS86HdaeP4BkEyypoE3CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814715201951-q2v92trpoeirijv5fbm3c7k87bmfs8c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
